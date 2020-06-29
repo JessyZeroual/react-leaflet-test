@@ -4,7 +4,7 @@ import {
   secondaryColor,
 } from "../../constant/style-constants";
 
-export const NavigationBarStyled = styled.aside`
+export const StyledNavigationBar = styled.aside`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -15,13 +15,13 @@ export const NavigationBarStyled = styled.aside`
   border-top-right-radius: 15px;
 `;
 
-export const HeaderNavigationBar = styled.div`
+export const StyledHeaderNavigationBar = styled.div`
   position: fixed;
   width: ${NavigationBarWidth}px;
   height: 30px;
 `;
 
-export const MainNavigationBar = styled.div`
+export const StyledMainNavigationBar = styled.div`
   margin-top: 50px;
   overflow: auto;
   ::-webkit-scrollbar {
@@ -39,6 +39,6 @@ export const MainNavigationBar = styled.div`
     }
   }
 `;
-export const FooterNavigationBar = styled.div`
+export const StyledFooterNavigationBar = styled.div`
   height: 60px;
 `;

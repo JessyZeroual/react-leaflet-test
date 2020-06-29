@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilterCities When FilterCities is mounted renders correctly 1`] = `
+<form
+  className="sc-AxhUy eElOBO"
+  onSubmit={[Function]}
+>
+  <div
+    className="sc-AxhCb bsfCal"
+  >
+    <img
+      alt="icon search"
+      src="/icon/search.svg"
+      width="15"
+    />
+    <input
+      className="sc-AxiKw VVkvQ"
+      onChange={[Function]}
+    />
+  </div>
+  
+</form>
+`;

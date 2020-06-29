@@ -8,6 +8,7 @@ export const getCities = () => {
           city.growth_from_2000_to_2013.replace("%", "")
         ),
         population: Number(city.population),
+        rank: Number(city.rank),
       }))
     );
 };

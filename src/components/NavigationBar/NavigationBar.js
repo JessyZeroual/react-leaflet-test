@@ -2,22 +2,22 @@ import React from "react";
 import CityList from "../CityList/CityList";
 import FilterCities from "../FilterCities/FilterCities";
 import {
-  NavigationBarStyled,
-  HeaderNavigationBar,
-  MainNavigationBar,
-  // FooterNavigationBar,
+  StyledNavigationBar,
+  StyledHeaderNavigationBar,
+  StyledMainNavigationBar,
+  // StyledFooterNavigationBar,
 } from "./NavigationBar.styled";
 
 const NavigationBar = () => (
-  <NavigationBarStyled>
-    <HeaderNavigationBar>
+  <StyledNavigationBar>
+    <StyledHeaderNavigationBar>
       <FilterCities />
-    </HeaderNavigationBar>
-    <MainNavigationBar id="mainSideBarID">
+    </StyledHeaderNavigationBar>
+    <StyledMainNavigationBar id="mainSideBarID">
       <CityList />
-    </MainNavigationBar>
-    {/* <FooterNavigationBar>footer</FooterNavigationBar> */}
-  </NavigationBarStyled>
+    </StyledMainNavigationBar>
+    {/* <StyledFooterNavigationBar>footer</StyledFooterNavigationBar> */}
+  </StyledNavigationBar>
 );
 
 export default NavigationBar;

@@ -17,7 +17,7 @@ const App = () => {
       }}
     >
       <StyledApp>
-        <NavigationBar cities={cities} />
+        <NavigationBar />
         <Map currentCity={currentCity} />
       </StyledApp>
     </CitiesContextProvider>

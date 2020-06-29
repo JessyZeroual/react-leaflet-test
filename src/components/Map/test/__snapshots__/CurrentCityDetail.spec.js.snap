@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurrentCityDetail When CurrentCityDetail is mounted renders correctly 1`] = `
+Array [
+  <div
+    className="sc-AxirZ bnSjNE"
+  >
+    <img
+      alt="icon city"
+      src="/icon/buildings.svg"
+      width="30"
+    />
+    <p
+      className="sc-AxiKw gnjXWm"
+    >
+      New York
+    </p>
+  </div>,
+  <div
+    className="sc-AxirZ bnSjNE"
+  >
+    <img
+      alt="icon state"
+      src="/icon/flag.svg"
+      width="30"
+    />
+    <p
+      className="sc-AxiKw gnjXWm"
+    >
+      New York
+    </p>
+  </div>,
+  <div
+    className="sc-AxirZ bnSjNE"
+  >
+    <img
+      alt="icon growth"
+      src="/icon/growth.svg"
+      width="30"
+    />
+    <p
+      className="sc-AxiKw gnjXWm"
+    >
+      4.8%
+    </p>
+  </div>,
+  <div
+    className="sc-AxirZ bnSjNE"
+  >
+    <img
+      alt="icon population"
+      src="/icon/population.svg"
+      width="30"
+    />
+    <p
+      className="sc-AxiKw gnjXWm"
+    >
+      8,405,837
+    </p>
+  </div>,
+]
+`;

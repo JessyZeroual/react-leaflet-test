@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavigationBar When NavigationBar is mounted renders correctly 1`] = `
+<aside
+  className="sc-AxjAm jNNAvW"
+>
+  <div
+    className="sc-AxirZ iPIdxu"
+  >
+    <div />
+  </div>
+  <div
+    className="sc-AxiKw FVqab"
+    id="mainSideBarID"
+  >
+    <div />
+  </div>
+</aside>
+`;

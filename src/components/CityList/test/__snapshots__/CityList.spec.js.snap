@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CityList When CityList is mounted renders correctly 1`] = `
+Array [
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    New York
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Los Angeles
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Chicago
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Houston
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Philadelphia
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Phoenix
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    San Antonio
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    San Diego
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Dallas
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    San Jose
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Austin
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Indianapolis
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Jacksonville
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    San Francisco
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Columbus
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Charlotte
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Fort Worth
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Detroit
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    El Paso
+  </div>,
+  <div
+    className="sc-AxjAm bbjfxF"
+    onClick={[Function]}
+  >
+    Memphis
+  </div>,
+]
+`;
